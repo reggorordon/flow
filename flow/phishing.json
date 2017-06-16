@@ -1,0 +1,45 @@
+       {"name": "Received a phishing email",
+        
+   
+        
+     "children": [
+        {"name":"Tell the floor lead","image":"","url":" "},
+         
+        {"name":"Get the merchant to forward it to safety@shopify.com","image":"","url":" "},
+
+        {"name":"Ask did they click on the link","image":" ","url":"",
+        
+        "children":[
+            
+ {"name":"Make sure they change the password immediately"},
+            {"name":"Enable 2 step authentication","image":"click the text for the link","url":"https://help.shopify.com/manual/your-account/account-security/two-step-authentication"}
+        ]
+        
+        },
+         
+        {"name":"Walk them through checking their store","image":" ", "url":"",
+        
+        "children":[
+        {"name":"Check their Staff Accounts","image":" Tip","url":" link to external web page"},
+         
+        {"name":"Check their banking details ","image":" ","url":" ",
+         "children": [
+         
+        {"name":"Get them to contact their bank ASAP","image":" Tip","url":" link to external web page"},
+         
+        {"name":" Tell them that we will escalate to account integrity","image":" ","url":" "},
+
+        {"name":"make no promises", "image":" ","url":" "},
+            
+        {"name":"Escalate to account integrity", "image":" ","url":" "}
+         ]
+        
+        },
+
+        {"name":"Check their Other stuff", "image":" ","url":" "}
+            
+        ]
+        },
+                     {"name":"Enable 2 step authentication","image":"click the text for the link","url":"https://help.shopify.com/manual/your-account/account-security/two-step-authentication"}
+         ]
+    } 

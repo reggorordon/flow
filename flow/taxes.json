@@ -1,0 +1,204 @@
+{  
+   "name":"Taxes",
+   "image":"Check out the guru card to see what category your state fits into",
+   "url":"https://app.getguru.com/#/facts/61142e13-c6da-4c2c-aeda-cea342846c01",
+   "type":"outline color",
+   "children":[  
+      {  
+         "name":"Destination",
+         "image":"",
+         "url":"",
+         "type":"Outline color",
+         "children":[  
+            {  
+               "name":"Interstate?",
+               "image":"Tip",
+               "url":"link to external web page",
+               "type":"outline color",
+               "children":[  
+                  {  
+                     "name":"Calculate taxes based on shipping adress",
+                     "image":"Tip",
+                     "url":"link to external web page",
+                     "type":"outline color"
+                  }
+               ]
+            },
+            {  
+               "name":"Outside state?",
+               "image":"Tip",
+               "url":"link to external web page",
+               "type":"outline color",
+               "children":[  
+                  {  
+                     "name":"No taxes",
+                     "image":"Tip",
+                     "url":"link to external web page",
+                     "type":"outline color"
+                  }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"Origin",
+         "image":"Origin states charge taxes based on the shop's physical presence's zipcode, not the shipping address's zipcode",
+         "url":"https://app.getguru.com/#/facts/a6faf537-383f-462e-8b60-eb79bb9ba24f",
+         "type":"outline color",
+         "children":[  
+            {  
+               "name":"Is it one of these states? ",
+               "image":"take a look at the image",
+               "url":"https://screenshot.click/16-02-wzjpb-o9qqd.jpg",
+               "type":"outline color",
+               "children":[  
+                  {  
+                     "name":"Shipping interstate? ",
+                     "image":"",
+                     "url":"",
+                     "type":"outline color",
+                     "children":[  
+                        {  
+                           "name":"Taxes based on stores zipcode",
+                           "image":"Tip",
+                           "url":"link to external web page",
+                           "type":"outline color"
+                        },
+                        {  
+                           "name":"Tax exempt",
+                           "image":"Tip",
+                           "url":"link to external web page",
+                           "type":"outline color"
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Shipping out of state? ",
+                     "image":"take a look at the image",
+                     "url":"https://screenshot.click/16-02-wzjpb-o9qqd.jpg",
+                     "type":"outline color",
+                     "children":[  
+                        {  
+                           "name":"Tax Exempt! ",
+                           "image":"take a look at the image",
+                           "url":"https://screenshot.click/16-02-wzjpb-o9qqd.jpg",
+                           "type":"outline color"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "name":"Is it one of these ",
+               "image":"No out of County",
+               "url":"https://screenshot.click/16-03-gmk2v-nhxxs.jpg",
+               "type":"outline color",
+               "children":[  
+                  {  
+                     "name":"Interstate shipping address?",
+                     "image":"Tip",
+                     "url":"link to external web page",
+                     "type":"outline color",
+                     "children":[  
+                        {  
+                           "name":"Same County? ",
+                           "image":"",
+                           "url":"",
+                           "type":"outline color",
+                           "children":[  
+                              {  
+                                 "name":"yes?",
+                                 "image":"take a look at the image",
+                                 "url":"https://screenshot.click/16-02-wzjpb-o9qqd.jpg",
+                                 "type":"outline color",
+                                 "children":[  
+                                    {  
+                                       "name":"Same City",
+                                       "image":"",
+                                       "url":"",
+                                       "type":"outline color",
+                                       "children":[  
+                                          {  
+                                             "name":"State, County and Municipal",
+                                             "image":"take a look at the image",
+                                             "url":"https://screenshot.click/16-02-wzjpb-o9qqd.jpg",
+                                             "type":"outline color"
+                                          }
+                                       ]
+                                    },
+                                    {  
+                                       "name":"Different City?",
+                                       "image":"take a look at the image",
+                                       "url":"https://screenshot.click/16-02-wzjpb-o9qqd.jpg",
+                                       "type":"outline color",
+                                       "children":[  
+                                          {  
+                                             "name":"State and County",
+                                             "image":"take a look at the image",
+                                             "url":"https://screenshot.click/16-02-wzjpb-o9qqd.jpg",
+                                             "type":"outline color"
+                                          }
+                                       ]
+                                    }
+                                 ]
+                              },
+                              {  
+                                 "name":"no?",
+                                 "image":"take a look at the image",
+                                 "url":"https://screenshot.click/16-02-wzjpb-o9qqd.jpg",
+                                 "type":"outline color",
+                                 "children":[  
+                                    {  
+                                       "name":"shipping within city?",
+                                       "image":"take a look at the image",
+                                       "url":"https://screenshot.click/16-02-wzjpb-o9qqd.jpg",
+                                       "type":"outline color",
+                                       "children":[  
+                                          {  
+                                             "name":"State and Municipal",
+                                             "image":"take a look at the image",
+                                             "url":"https://screenshot.click/16-02-wzjpb-o9qqd.jpg",
+                                             "type":"outline color"
+                                          }
+                                       ]
+                                    },
+                                    {  
+                                       "name":"Shipping outside City?",
+                                       "image":"take a look at the image",
+                                       "url":"https://screenshot.click/16-02-wzjpb-o9qqd.jpg",
+                                       "type":"outline color",
+                                       "children":[  
+                                          {  
+                                             "name":"State Taxes only",
+                                             "image":"take a look at the image",
+                                             "url":"https://screenshot.click/16-02-wzjpb-o9qqd.jpg",
+                                             "type":"outline color"
+                                          }
+                                       ]
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Out of State?",
+                     "image":"Tip",
+                     "url":"link to external web page",
+                     "type":"outline color",
+                     "children":[  
+                        {  
+                           "name":"Tax exempt!",
+                           "image":"take a look at the image",
+                           "url":"https://screenshot.click/16-02-wzjpb-o9qqd.jpg",
+                           "type":"outline color"
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}

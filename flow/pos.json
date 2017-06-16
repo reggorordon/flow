@@ -1,0 +1,67 @@
+{
+    "name": "POS",
+        
+     "children": 
+    [
+         
+            {
+             "name":"Cash Drawer",
+             "image":"Tip",
+             "url":"link to external web page",
+            "type": "outline color",
+                  "children": 
+    [
+         
+            {
+             "name":"Child1",
+             "image":"Tip",
+             "url":"link to external web page",
+            "type": "outline color"  
+            },
+        
+            {
+            "name":"Child2",
+            "image":"",
+            "url":"",
+            "type": "Outline color"
+            },
+
+            {
+             "name":"Child3",
+             "image":"",
+             "url":"",
+                "type": "black" 
+            }
+    ]
+                
+            },
+        
+            {
+            "name":"POS app",
+            "image":"",
+            "url":"",
+            "type": "Outline color"
+            },
+                    {
+            "name":"Receipt Printer",
+            "image":"",
+            "url":"",
+            "type": "Outline color"
+            },
+                    {
+            "name":"Barcode Scanner",
+            "image":"",
+            "url":"",
+            "type": "Outline color"
+            },
+
+            {
+             "name":"EMV Reader",
+             "image":"Tip",
+             "url":"emv.html",
+            "type": "outline color"
+
+            }
+    ]
+ 
+} 

@@ -1,0 +1,133 @@
+{  
+   "name":"Domain is not working",
+   "url":"https://help.shopify.com/manual/domains",
+   "image":"Click the text to go to the docs on domains",
+   "children":[  
+      {  
+         "name":"Did You Buy it from Us",
+         "image":" ",
+         "url":" ",
+         "children":[  
+            {  
+               "name":"Did the purchase go through",
+               "image":" ",
+               "url":" ",
+               "children":[  
+                  {  
+                     "name":"Yes",
+                     "image":" ",
+                     "url":" ",
+                     "children":[  
+                        {  
+                           "name":"check google dig",
+                           "image":"link here",
+                           "url":"https://toolbox.googleapps.com/apps/dig/#TXT/ ",
+                           "children":[  
+                              {  
+                                 "name":"1.The aRecord should read  23.227.38.32 (NOTE: there should be only one!)",
+                                 "image":" Click the text to see what you should see",
+                                 "url":"https://screenshot.click/28-40-tz7b5-1fgyx.jpg",
+                                 "children":[  
+                                    {  
+                                       "name":"Child1",
+                                       "image":"Tip",
+                                       "url":"link to external web page",
+                                       "type":"outline color"
+                                    },
+                                    {  
+                                       "name":"Child2",
+                                       "image":"",
+                                       "url":"",
+                                       "type":"Outline color"
+                                    },
+                                    {  
+                                       "name":"Child3",
+                                       "image":"",
+                                       "url":"",
+                                       "type":"black"
+                                    }
+                                 ]
+                              },
+                              {  
+                                 "name":"2:The CNAME of WWW should direct to shops.myshopify.com name:",
+                                 "image":" Click the text to see what you should see",
+                                 "url":"https://screenshot.click/28-42-qxod1-wcgvr.jpg"
+                              },
+                              {  
+                                 "name":"3:Have they changed the Domain Section in the Admin:",
+                                 "image":" Click the text to see what you should see",
+                                 "url":"https://screenshot.click/28-44-sfv7y-uhehb.jpg"
+                              },
+                              {  
+                                 "name":"4:Provision their Certs in the Dash",
+                                 "image":" Click the text for a video",
+                                 "url":"https://screenshot.click/14-38-rhe0u-ryevr.mp4"
+                              },
+                              {  
+                                 "name":"5:Still not working? click here to troubleshoot OPENSRS",
+                                 "image":" link to another page"
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"NO?",
+                     "image":" ",
+                     "url":" ",
+                     "children":[  
+                        {  
+                           "name":"check to see if it is a credit card",
+                           "image":" ",
+                           "url":"https://screenshot.click/14-40-z5lrt-1cv8c.jpg"
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"Did You buy it Somewhere Else",
+         "children":[  
+            {  
+               "name":"Was It GoDaddy",
+               "image":"",
+               "url":"",
+               "children":[  
+                  {  
+                     "name":"It can be set up in the Domain Settings"
+                  }
+               ]
+            },
+            {  
+               "name":"Was It Somewhere Else?",
+               "image":" Click the text to see info on setting up external domains",
+               "url":" https://help.shopify.com/manual/domains/third-party-domains/common-providers",
+               "children":[  
+                  {  
+                     "name":"1.TELL THE MERCHANT TO LOG INTO THE CONTROL PANEL",
+                     "image":" Click the text to see what you should see",
+                     "url":" "
+                  },
+                  {  
+                     "name":"2.Change the Arecord to 23.227.38.32(NOTE: There should be only one)",
+                     "image":" Click the text to see what you should see",
+                     "url":" "
+                  },
+                  {  
+                     "name":"3:Set the CNAME to WWW and direct to the SHOPIFY store name",
+                     "image":" Click the text to see what you should see",
+                     "url":"https://app.getguru.com/#/facts/39cd037a-a0bb-4e3d-8749-9043b082d9d8 "
+                  },
+                  {  
+                     "name":"3:Have them change the Domain Section in the Admin:",
+                     "image":" Click the text to see what you should see",
+                     "url":"https://screenshot.click/28-44-sfv7y-uhehb.jpg"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}

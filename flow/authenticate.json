@@ -1,0 +1,63 @@
+{
+ "name": "Authentication? ",
+    "children": [
+                                { "name": "Is it Email",
+    "children":
+                [
+                                {"name":"Are they the owner(Check Email Address)",
+            "children":
+                [
+                                {"name":"Do they Want to close their store?",
+            "children":
+                [
+                                {"name":"Yes",
+            "children":
+                [
+                                {"name":"Physical Address"},
+                                {"name":"Last 4 Digits of Card"},
+                                {"name":"email on account"},
+                                {"name":"where the owner last logged In"}
+                ]},
+            
+                                {"name":"Is it Chat",
+            "children":
+                [
+                                {"name":"Share Away"}
+                ]
+            }
+        ]}
+             
+             ]
+        
+        },
+                                {"name":"Are they Staff(Check Email)",
+            "children":[
+                                {"name":"Check they are authorised to access the information?"}
+                        ]
+        }
+         ]    
+    },
+                     
+{"name":"Is it Chat",
+            "children":
+     [
+                                {"name":"Could they Google it ?",
+            "children":[
+                                {"name":"yes?",
+            "children":[
+                                {"name":"Share away"}
+         ]},
+                                {"name":"no?",
+             "children":[
+                                {"name":"Physical Address"},
+                                {"name":"Last 4 Digits of Card"},
+                                {"name":"email on account"},
+                                {"name":"where the owner last logged In"}
+             ]
+            }
+        ]
+        }
+     ]
+}
+]
+}

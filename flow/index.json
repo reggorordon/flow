@@ -1,0 +1,55 @@
+{  
+   "name":"Click here to see the templates",
+   "children":[  
+      {  
+         "name":"Multi-Store ",
+         "image":" Click on text to go to multi-store troubleshooting",
+         "url":" http://test.reggordon.com/multi-store.html"
+      },
+      {  
+         "name":"Authentication",
+         "image":" Click on text to go to authentication troubleshooting",
+         "url":"http://test.reggordon.com/authenticate.html"
+      },
+      {  
+         "name":"POS",
+         "image":" Click on text to go to POS",
+         "url":"http://test.reggordon.com/POS.html"
+      },
+      {  
+         "name":"Taxes",
+         "image":" Click on text to go to taxes troubleshooting",
+         "url":"http://test.reggordon.com/taxes.html"
+      },
+      {  
+         "name":"Google Analytics",
+         "image":" Click on text to go to Google Analytics",
+         "url":"#"
+      },
+      {  
+         "name":"General Troubleshooting",
+         "image":" Click on text to go to troubleshooting",
+         "url":"http://test.reggordon.com/troubleshooting.html "
+      },
+      {  
+         "name":"Domains",
+         "children":[  
+            {  
+               "name":"Setting up Domain",
+               "image":"Click on text to go to domains troubleshooting",
+               "url":" http://test.reggordon.com/domain.html"
+            },
+            {  
+               "name":"If you cant add email forwarding",
+               "image":"Click on text to go to email forwarding",
+               "url":" http://test.reggordon.com/Email_forwarding.html"
+            },
+            {  
+               "name":"Setting up ZohoMail",
+               "image":"Make sure their DNS settings match this",
+               "url":" https://screenshot.click/23-47-qc0j8-3370e.jpg"
+            }
+         ]
+      }
+   ]
+}

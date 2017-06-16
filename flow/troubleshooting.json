@@ -1,0 +1,106 @@
+{
+  "name": "TroubleShooting 101",
+  "children": [
+    {
+      "name": "Click on the text to check if it is a known issue?",
+      "image": "",
+      "url": "https://support-dashboard.shopify.io/#"
+    },
+    {
+      "name": "Do you need to troubleshoot?",
+      "children": [
+        {
+          "name": "What is Happening",
+          "image": " Tip",
+          "url": " link to external web page",
+          "children": [
+            {
+              "name": "What Has Happened?(Get an exact description)"
+            },
+            {
+              "name": "What was meant to happen(Get an exact description)"
+            }
+          ]
+        },
+        {
+          "name": " When did it happen",
+          "image": " ",
+          "url": " ",
+          "children": [
+            {
+              "name": "Get a start date as close to the time as possible"
+            },
+            {
+              "name": "Make sure you take the different time zones into consideration"
+            }
+          ]
+        },
+        {
+          "name": "Is it still happening?",
+          "image": " ",
+          "url": " ",
+          "children": [
+            {
+              "name": "Get a real time example"
+            },
+            {
+              "name": "Try to replicate on your end"
+            }
+          ]
+        },
+        {
+          "name": "What does it look like?",
+          "image": " ",
+          "url": " ",
+          "children": [
+            {
+              "name": "Get a screengrab off the merchant"
+            },
+            {
+              "name": "Try to screengrab it yourself"
+            }
+          ]
+        },
+        {
+          "name": "Where is it happening?",
+          "image": " ",
+          "url": " ",
+          "children": [
+            {
+              "name": ""
+            },
+            {
+              "name": ""
+            }
+          ]
+        },
+        {
+          "name": "Can you replicate?",
+          "image": " ",
+          "url": " ",
+          "children": [
+            {
+              "name": "Yes"
+            },
+            {
+              "name": "No?",
+              "children": [
+                {
+                  "name": "It is a local issue",
+                  "children": [
+                    {
+                      "name": "Check which browser/os"
+                    },
+                    {
+                      "name": "Check is the Browser Up to date"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

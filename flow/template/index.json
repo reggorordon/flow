@@ -1,0 +1,32 @@
+       {"name": "Click here to see the templates",
+        
+     "children": [
+        
+        {"name":"Multi-Store ",
+        "image":" Click on text to go to multi-store troubleshooting",
+        "url":" http://test.reggordon.com/multi-store.html"},
+
+        {"name":"Authentication",
+         "image":" Click on text to go to authentication troubleshooting",
+         "url":"http://test.reggordon.com/authenticate.html"},
+         
+        {"name":"Troubleshooting",
+         "image":" Click on text to go to troubleshooting",
+         "url":"http://test.reggordon.com/troubleshooting.html "},
+         
+          {"name":"Phishing",
+         "image":" Click on text to go phishing",
+         "url":"http://test.reggordon.com/phishing.html "},
+         
+        {"name":"Domains",
+        
+        "children":[
+         {"name":"Setting up Domain","image":"Click on text to go to domains troubleshooting",
+        "url":" http://test.reggordon.com/domain.html"},
+            {"name":"If you cant add email forwarding","image":"Click on text to go to email forwarding",
+        "url":" http://test.reggordon.com/Email_forwarding.html" }
+         
+         ]
+        }
+         ]
+    } 

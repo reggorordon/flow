@@ -1,0 +1,17 @@
+       {"name": "First thing is to make sure the tag is working",
+        
+     "children": [
+         
+        {"name":"Check Google Tag Manager",
+          "image":" Tip",
+          "url":" link to external web page"},
+         
+        {"name":" Make Sure the tag matches the tag in the admin",
+          "image":" ",
+          "url":" "},
+
+        {"name":"Make sure the tag is being sent from cart to checkout",
+          "image":" ",
+          "url":" "}
+         ]
+    } 

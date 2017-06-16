@@ -1,0 +1,41 @@
+       {"name": "Multistore discount",
+        "image":" Click on text for guru card",
+        "url":" https://screenshot.click/14-40-thftm-80xz4.jpg",
+        
+         "children": 
+            [
+              {"name":"Is the extra store identical apart from language/currency ?","image":" Tip","url":" link to external web page",  
+            "children":
+                [
+                    {"name":"OK so we can do that for them",
+
+                        "children":
+                             [
+                                {"name": "So get them to copy the store and make the changes","image":"click on text to get the doc ","url":" https://help.shopify.com/manual/sell-online/online-store/how-do-i-duplicate-my-store?utm_source=gurucopy&utm_medium=link&utm_campaign=Gurus"},
+                                {"name": "Then get them to pick a plan | The second store is under the reduced rate","image":" Shop A = $299 Advanced plan | Advanced features, Shop B = $79 Custom plan | Advanced features","url":" link to external web page"},
+                                {"name": "Escalate to billing under Multi Store","image":" click on text to see a video","url":" https://screenshot.click/14-36-4qd65-jseev.mp4"}
+                             ]
+                    }    
+                ]
+
+
+            },
+        
+           {"name": "Do they want just want to run several stores?",
+        "image":" Tip",
+        "url":" link to external web page",
+           
+                    "children":
+                        [
+                            {"name":"Yeah that cant be done",
+                                 "children": 
+                                [
+                                    {"name":"Let them know if they sign up for an annual plan they will get a 10% discount"}
+                                ]
+                            }
+                        ]
+           }
+         ]
+         
+       
+    } 

@@ -1,0 +1,146 @@
+{  
+   "name":"Does it power on?",
+   "image":"Tip",
+   "url":"link to external web page",
+   "type":"outline color",
+   "children":[  
+      {  
+         "name":"Yes?",
+         "image":"Tip",
+         "url":"link to external web page",
+         "type":"outline color",
+         "children":[  
+            {  
+               "name":"Set it to pairing mode",
+               "image":"Tip",
+               "url":"https://help.shopify.com/manual/sell-in-person/hardware/card-readers/tap-chip-swipe#pairing-with-your-ipad-or-iphone",
+               "type":"outline color",
+               "children":[  
+                  {  
+                     "name":"Flashing BlueLight?",
+                     "image":"",
+                     "url":"",
+                     "type":"Outline color",
+                     "children":[  
+                        {  
+                           "name":"Try it with another ipad",
+                           "image":"Tip",
+                           "url":"link to external web page",
+                           "type":"outline color",
+                           "children":[  
+                              {  
+                                 "name":"Yes? Its the ipad",
+                                 "image":"Tip",
+                                 "url":"link to external web page",
+                                 "type":"outline color"
+                              },
+                              {  
+                                 "name":"No? send it back",
+                                 "image":"",
+                                 "url":"",
+                                 "type":"Outline color"
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"No Flashing Blue Light?",
+                     "image":"",
+                     "url":"",
+                     "type":"black",
+                     "children":[  
+                        {  
+                           "name":"System Restore EMV",
+                           "image":"Tip",
+                           "url":"https://app.getguru.com/#/facts/e42bcf03-45c9-4f80-b48b-edf67c1d0096",
+                           "type":"outline color",
+                           "children":[  
+                              {  
+                                 "name":"Can you see it?",
+                                 "image":"You might need to exit the bluetooth settings in the ipad and restart them",
+                                 "url":"link to external web page",
+                                 "type":"outline color",
+                                 "children":[  
+                                    {  
+                                       "name":"Yes?",
+                                       "image":"Tip",
+                                       "url":"link to external web page",
+                                       "type":"outline color",
+                                       "children":[  
+                                          {  
+                                             "name":"Try it with another ipad",
+                                             "image":"Tip",
+                                             "url":"link to external web page",
+                                             "type":"outline color",
+                                             "children":[  
+                                                {  
+                                                   "name":"Yes? Its the ipad",
+                                                   "image":"Tip",
+                                                   "url":"link to external web page",
+                                                   "type":"outline color"
+                                                },
+                                                {  
+                                                   "name":"No? Send to t2",
+                                                   "image":"",
+                                                   "url":"",
+                                                   "type":"Outline color"
+                                                }
+                                             ]
+                                          }
+                                       ]
+                                    },
+                                    {  
+                                       "name":"No?",
+                                       "image":"",
+                                       "url":"",
+                                       "type":"Outline color"
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"No?",
+         "image":"",
+         "url":"",
+         "type":"Outline color",
+         "children":[  
+            {  
+               "name":"check out the steps on this card",
+               "image":"This should be another flowchart",
+               "url":"https://app.getguru.com/#/facts/c7022e61-78fd-4b36-82e4-5d069d3ccda7",
+               "type":"outline color",
+               "children":[  
+                  {  
+                     "name":"Did it Charge?",
+                     "image":"Tip",
+                     "url":"link to external web page",
+                     "type":"outline color",
+                     "children":[  
+                        {  
+                           "name":"Yes? OK so continue on troubleshooting",
+                           "image":"Tip",
+                           "url":"link to external web page",
+                           "type":"outline color"
+                        },
+                        {  
+                           "name":"No? send it back",
+                           "image":"",
+                           "url":"",
+                           "type":"Outline color"
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
